@@ -1,5 +1,5 @@
 k = []
-for x in range (100):
+for x in range (200):
   k.append(int(input()))
   if (k[-1] is None):
     print(x)
