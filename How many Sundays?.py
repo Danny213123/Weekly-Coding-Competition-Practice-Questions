@@ -10,3 +10,5 @@ for x in range (year, year + 100):
     if (ans.strftime("%A") == "Sunday"):
       sundays += 1
 print(sundays)
+
+# With out using datetime module: https://cs.uwaterloo.ca/~alopez-o/math-faq/node73.html
