@@ -8,6 +8,7 @@ The output will be the amount of time it'll take to finish the obstacle course (
 Output: 2860
 
 SAMPLE INPUTS:
+
       1. INPUT: 10 5 3
           OUTPUT: 1230
 
